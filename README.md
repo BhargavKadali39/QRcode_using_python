@@ -12,7 +12,13 @@ The information encoded can be made up of any kind of data (e.g., binary, alphan
 
 Required instructions for installing the modules!
 
+For QRcode module:
+
     pip install qrcode[pil]
+
+For numpy module:
+
+    pip install numpy
     
 Here 'pil' is included because in order to make the qrcode module work we need another module called pillow.
 Hence [pil] is included to make concurrent downloads with single command.
