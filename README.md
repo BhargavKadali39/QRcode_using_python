@@ -21,3 +21,5 @@ Hence [pil] is included to make concurrent downloads with single command.
     Enter data for the barcode: ***********************
     Dimensions of the QR code: (33, 33)
    ![Screenshot 2021-09-26 225947](https://user-images.githubusercontent.com/71930013/134817877-7ed1532b-ad4b-44d0-a264-3bad35241415.png)
+
+Scan the QRcode to check out what's inside it!
